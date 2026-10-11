@@ -1,0 +1,15 @@
+{
+  "name": "สามก๊ก Atlas — 三國演義 Study",
+  "short_name": "สามก๊ก Atlas",
+  "description": "อ่านสามก๊กครบ 120 ตอน ฟังเสียงอ่าน และศึกษาแบบ 5W1H บนแผนที่",
+  "lang": "th",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1513",
+  "theme_color": "#b5322a",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
